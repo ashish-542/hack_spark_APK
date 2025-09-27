@@ -1,0 +1,20 @@
+Download the APK file attached in the repo.
+
+_________________________________________________
+
+
+Register UI is under progress...
+
+1. login using current user :
+
+username - 9779356433
+password - myPassword1*
+
+
+2. After Login, give permission to access text messages by :
+- click on Request SMS Permissions
+
+3. Send text messages from another :
+
+- Normal messages : nothings happens
+- Fraud messages : push notification stating reason
